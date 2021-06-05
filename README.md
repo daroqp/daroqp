@@ -1,5 +1,6 @@
-### Hola soy Dario Quispe 👋
+### Hi there 👋
 
+## I'm Dario Quispe
 <!--
 **daroqp/daroqp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
