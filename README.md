@@ -7,14 +7,24 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on a e-commerce.
-- 🌱 I’m currently learning NodeJS and JavaScript.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<h3> Tech Skills: </h3>
+
+ - JavaScript
+ - Git
+ - Scrum
+
+<h3> Learing: </h3>
+
+ - NODEjs
+ - P.O.O
+
+<h3> To Learn: </3>
+
+ - S.O.L.I.D
+ - M.V.C
+ - Clean Arquitecture
+ - Typescript
+ - MySQL
 
 ## Skills
 <p>
