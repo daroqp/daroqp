@@ -7,24 +7,24 @@
 Here are some ideas to get you started:
 -->
 
-<h3> Tech Skills: </h3>
+<h3> 💻 Tech Skills: </h3>
 
- - JavaScript
- - Git
- - Scrum
+ - JavaScript ✔️
+ - Git ✔️
+ - Scrum ✔️
 
-<h3> Learing: </h3>
+<h3> 💻 Learing: </h3>
 
- - NODEjs
- - P.O.O
+ - 🔰 NODEjs
+ - 🔰 P.O.O
 
-<h3> To Learn: </3>
+<h3> 💻 To Learn: </3>
 
- - S.O.L.I.D
- - M.V.C
- - Clean Arquitecture
- - Typescript
- - MySQL
+ - 🤓 S.O.L.I.D
+ - 🤓 M.V.C
+ - 🤓 Clean Arquitecture
+ - 🤓 Typescript
+ - 🛢 MySQL
 
 ## Skills
 <p>
