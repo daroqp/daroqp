@@ -18,11 +18,11 @@ Here are some ideas to get you started:
  - 🔰 NODEjs
  - 🔰 P.O.O
  - 🔰 Typescript
+ - 🔰 M.V.C
 
 <h3> 💻 To Learn: </3>
 
  - 🤓 S.O.L.I.D
- - 🤓 M.V.C
  - 🤓 Clean Arquitecture
  - 🛢 MySQL
 
