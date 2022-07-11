@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love Cat 😺
 
   </td>
-  <td width="50%">
+  <td width="50%" align="center">
     <img src="./image/profile1.gif" width="200" height="200" alt="pokemon" />
   </td>
 
